@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:rim="http://www.blackberry.com/ns/widgets" version="2.0.0" rim:header="RIM-Widget:rim/widget">
+  <name>Convert It</name>
+  <description>Unit converter for BlackBerry Playbook</description>
+  <author rim:copyright="2011">Pronic</author>
+  <publisher>Pronic</publisher>
+  <feature id="blackberry.app" required="true" version="1.0.0.0"/>
+  <feature id="blackberry.app.event" required="true" version="1.0.0.0"/>
+  <icon src="img/icon.png"/>
+  <content src="index.html"/>
+</widget>
